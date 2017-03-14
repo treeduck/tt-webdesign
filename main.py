@@ -11,6 +11,3 @@ def test():
 
 if __name__ == "__main__":
     app.run()
-
-# google map api key
-# AIzaSyB66ikEGoIXGLPuvAaaD2zcOh8LB-SqCuk
